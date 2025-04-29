@@ -1,4 +1,4 @@
-# Monad Magma MCP Staking Tool
+# Monad Magma MCP
 
 ## Features
 - Stake MON: Stake MON tokens to receive gMON.
