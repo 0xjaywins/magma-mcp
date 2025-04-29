@@ -34,7 +34,7 @@ npm install --save-dev @types/node
    PRIVATE_KEY=0xYourPrivateKey
    ```
    Replace `0xYourPrivateKey` with your Monad Testnet private key.
-3. Update `src/index.ts` with `.env` path (e.g., `/home/yourusername/monad-mcp-staking/.env` for Unix, `C:\Users\lenovo\Desktop\monad-mcp-staking\.env` for Windows).
+3. Update `src/index.ts` with `.env` path (e.g., `/home/yourusername/monad-mcp-staking/.env` for Unix, `C:\Users\windows\Desktop\monad-mcp-staking\.env` for Windows).
 
 ### Build Project
 ```bash
